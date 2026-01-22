@@ -1,2 +1,2 @@
 # FillFusion-GS
-the code for paper "FillFusion-GS: Geometry-Aware LiDAR–Camera Fusion for Localization and Reconstruction of Structurally Incomplete Scenes"
+the code for paper "FillFusion-GS: From Sparse Scans to Dense Scenes via Visual-Structure-Guided 3D Gaussian Splatting"
